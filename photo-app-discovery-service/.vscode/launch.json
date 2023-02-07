@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PhotoAppDiscoveryServiceApplication<photo-app-discovery-service>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.desendo.photoapp.discovery.photoappdiscoveryservice.PhotoAppDiscoveryServiceApplication",
+            "projectName": "photo-app-discovery-service",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
